@@ -27,7 +27,7 @@
   - executar: `npm install`
   - executar: `func host start`
 - Frontend
-  - clonar projeto (url)
+  - [clonar front-end](https://github.com/ramonprata/azure-functions-front-end)
   - acessar pasta do projeto
   - executar: `npm install`
   - executar: `npm run start`
