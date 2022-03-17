@@ -49,6 +49,11 @@
 - [HttpTrigger](https://www.youtube.com/watch?v=zYb5sVQgUN4&ab_channel=ServerlessonAzure)
 - [BlobTrigger](https://www.youtube.com/watch?v=SC4-_ZwjlR4&t=13s&ab_channel=ServerlessonAzure)
 
+# DB
+
+- [cosmos db using Mongo api](https://docs.microsoft.com/pt-br/azure/cosmos-db/mongodb/mongodb-introduction)
+- [Mongoose ODM](https://mongoosejs.com/docs/guide.html)
+
 # Integrações
 
 - [Firebase admin](https://firebase.google.com/docs/admin/setup)
