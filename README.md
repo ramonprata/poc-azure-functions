@@ -37,17 +37,6 @@
     - checar se arquivo foi salvo no Azure Storage Explorer
     - checar se recebeu o email numa conta definida como envio
 
-# Levantamento de estórias
-
-## Fluxos MACRO
-
-1. ENVIO DE NOTIFICAÇÃO SEM ARQUIVO
-   - **a refinar**
-2. ENVIO DE NOTIFICAÇÃO COM ARQUIVO
-   - **a refinar**
-3. LEITURA DE HISTORICO DE NOTIFICAÇÕES
-   - **a refinar**
-
 # Help
 
 # Docs
